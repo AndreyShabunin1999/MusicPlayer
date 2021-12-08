@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="text_song_name">Song Name</string>
+    <string name="text_first_time_song">0:10</string>
+    <string name="text_last_time_song">4:10</string>
+</resources>
